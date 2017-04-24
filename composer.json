@@ -1,5 +1,5 @@
 {
-    "name": "jurjean/spray-serializer",
+    "name": "pinknelsonhub/spray-serializer",
     "require": {
         "zendframework/zend-code": ">=2.3.0",
         "zendframework/zend-crypt": ">=2.3.0",
